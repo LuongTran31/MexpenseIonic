@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Mexpense",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
